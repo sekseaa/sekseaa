@@ -3,7 +3,7 @@
 - Working at Inspired Entertainment
 
 ## Notable Projects
-- An open-source linux Counter-Strike:Global Offensive trainer named [gamesneeze](https://github.com/seksea/gamesneeze)
+- An open-source linux Counter-Strike:Global Offensive trainer named [gamesneeze]([https://github.com/seksea/gamesneeze](https://github.com/sekseaa/gamesneeze-))
 
 ## You can reach me on
 - discord: xkja
