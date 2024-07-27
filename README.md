@@ -1,16 +1,16 @@
-## Hi there 👋
+## About me
+- 19 years old
+- Working at Inspired Entertainment
 
-<!--
-**sekseaa/sekseaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Notable Projects
+- An open-source linux Counter-Strike:Global Offensive trainer named [gamesneeze](https://github.com/seksea/gamesneeze)
 
-Here are some ideas to get you started:
+## You can reach me on
+- discord: sekc1337
+- email: williamireland0@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a><img width="42%" src="https://raw.githubusercontent.com/seksea/summary-cards/master/profile-summary-card-output/vue/0-profile-details.svg"></a>
+  <a><img width="21%" src="https://raw.githubusercontent.com/seksea/summary-cards/master/profile-summary-card-output/vue/2-most-commit-language.svg"></a>
+  <a><img width="14%" src="https://raw.githubusercontent.com/seksea/summary-cards/master/profile-summary-card-output/vue/3-stats.svg"></a>
+</p>
