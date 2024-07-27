@@ -6,7 +6,7 @@
 - An open-source linux Counter-Strike:Global Offensive trainer named [gamesneeze](https://github.com/seksea/gamesneeze)
 
 ## You can reach me on
-- discord: sekc1337
+- discord: xkja
 - email: williamireland0@gmail.com
 
 <p align="center">
